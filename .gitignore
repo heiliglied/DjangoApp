@@ -1,0 +1,8 @@
+*.log
+*.pot
+*.pyc
+__pycache__/
+app/settings.py
+database/db.sqlite3
+database/db.sqlite3-journal
+media
